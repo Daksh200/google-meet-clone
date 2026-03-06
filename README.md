@@ -61,8 +61,9 @@ vercel deploy
 ```
 
 ## 📸 Screenshots  
-demo meet1.png
-demo meet2.png
+<img src="demo meet1.png" alt="demo1" width="500" height="600">
+<img src="demo meet2.png" alt="demo2" width="500" height="600">
+
 ## 🤝 Contributing  
 Contributions are welcome! Please fork the repo and submit a pull request.  
 

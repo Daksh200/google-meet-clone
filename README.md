@@ -1,6 +1,6 @@
-# Google Meet Clone  
+# CollabNow   
 
-A full-stack **Google Meet Clone** built with **Next.js**, **TailwindCSS**, and the **Google Meet API**. This project replicates the core functionality of Google Meet, including video conferencing, real-time communication, and a clean, responsive UI.  
+A full-stack **CollabNow** built with **Next.js**, **TailwindCSS**, and the **Google Meet API**. This project replicates the core functionality of Google Meet, including video conferencing, real-time communication, and a clean, responsive UI.  
 
 ## 🚀 Features  
 - 🔗 **Google Meet API Integration** – seamless video conferencing experience  

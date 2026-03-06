@@ -61,8 +61,8 @@ vercel deploy
 ```
 
 ## 📸 Screenshots  
-(Add screenshots of your app here to showcase the UI and features.)  
-
+demo meet1.png
+demo meet2.png
 ## 🤝 Contributing  
 Contributions are welcome! Please fork the repo and submit a pull request.  
 

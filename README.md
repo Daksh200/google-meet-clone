@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Google Meet Clone  
 
-## Getting Started
+A full-stack **Google Meet Clone** built with **Next.js**, **TailwindCSS**, and the **Google Meet API**. This project replicates the core functionality of Google Meet, including video conferencing, real-time communication, and a clean, responsive UI.  
 
-First, run the development server:
+## 🚀 Features  
+- 🔗 **Google Meet API Integration** – seamless video conferencing experience  
+- 🎨 **Modern UI** – built with TailwindCSS for responsive design  
+- ⚡ **Next.js Framework** – optimized performance and server-side rendering  
+- 🔄 **Real-time updates** – live meeting interactions and auto-refresh  
+- 📱 **Cross-platform support** – works on desktop and mobile  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🛠️ Tech Stack  
+- **Frontend:** Next.js, React, TailwindCSS  
+- **Backend:** Google Meet API  
+- **Deployment:** Vercel  
+
+## 📂 Project Structure  
+```
+google-meet-clone/
+├── public/              # Static assets
+├── src/                 # Main source code
+│   ├── app/             # Next.js app directory
+│   ├── components/      # Reusable UI components
+│   └── pages/           # Page routes
+├── package.json         # Dependencies and scripts
+├── tailwind.config.js   # TailwindCSS configuration
+└── README.md            # Project documentation
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ⚙️ Getting Started  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 1. Clone the repository  
+```bash
+git clone https://github.com/Daksh200/google-meet-clone.git
+cd google-meet-clone
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 2. Install dependencies  
+```bash
+npm install
+# or
+yarn install
+```
 
-## Learn More
+### 3. Run the development server  
+```bash
+npm run dev
+```
+Open `http://localhost:3000` [(localhost in Bing)](https://www.bing.com/search?q="http%3A%2F%2Flocalhost%3A3000%2F") in your browser.  
 
-To learn more about Next.js, take a look at the following resources:
+### 4. Environment Variables  
+Create a `.env.local` file in the root directory and add your Google Meet API credentials:  
+```
+GOOGLE_MEET_API_KEY=your_api_key_here
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌐 Deployment  
+The easiest way to deploy is via [Vercel](https://vercel.com).  
+```bash
+vercel deploy
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📸 Screenshots  
+(Add screenshots of your app here to showcase the UI and features.)  
 
-## Deploy on Vercel
+## 🤝 Contributing  
+Contributions are welcome! Please fork the repo and submit a pull request.  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📜 License  
+This project is licensed under the MIT License.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---

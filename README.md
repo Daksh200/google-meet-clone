@@ -1,5 +1,6 @@
 # CollabNow   
 
+<img src="demo meet1.png" alt="demo1" width="800" height="1000">
 A full-stack **CollabNow** built with **Next.js**, **TailwindCSS**, and the **Google Meet API**. This project replicates the core functionality of Google Meet, including video conferencing, real-time communication, and a clean, responsive UI.  
 
 ## 🚀 Features  
